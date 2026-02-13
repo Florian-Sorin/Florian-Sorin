@@ -31,9 +31,9 @@ Passionate about turning abstract concepts into concrete architectures, I see de
 ### 📊 My Engineering Metrics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Florian-Sorin/Florian-Sorin/main/github-metrics.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Florian-Sorin/Florian-Sorin/main/github-metrics.svg">
-  <img alt="My Engineering Metrics" src="https://raw.githubusercontent.com/Florian-Sorin/Florian-Sorin/main/github-metrics.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Florian-Sorin/Florian-Sorin/main/github-metrics-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Florian-Sorin/Florian-Sorin/main/github-metrics-light.svg">
+  <img alt="My Engineering Metrics" src="https://raw.githubusercontent.com/Florian-Sorin/Florian-Sorin/main/github-metrics-dark.svg">
 </picture>
 
 ---
