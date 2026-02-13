@@ -27,13 +27,13 @@ Passionate about turning abstract concepts into concrete architectures, I see de
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Florian-Sorin&show_icons=true&theme=radical&hide_border=true" alt="[Your Name]'s Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Florian-Sorin&show_icons=true&theme=radical&hide_border=true" alt="Florian-Sorin's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Florian-Sorin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🤝 Let's connect!
-- 💼 **LinkedIn**: [Your Profile Link](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/florian-sorin-dev/))
+- 💼 **LinkedIn**: [View my professional background](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/florian-sorin-dev/))
 
 > **"De l'exigence à l'excellence"** 🧩
