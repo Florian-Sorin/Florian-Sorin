@@ -34,6 +34,6 @@ Passionate about turning abstract concepts into concrete architectures, I see de
 ---
 
 ### 🤝 Let's connect!
-- 💼 **LinkedIn**: [View my professional background](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/florian-sorin-dev/))
+- 💼 **LinkedIn**: [View my professional background](https://www.linkedin.com/in/florian-sorin-dev/))
 
 > **"De l'exigence à l'excellence"** 🧩
