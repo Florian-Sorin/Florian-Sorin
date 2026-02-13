@@ -3,19 +3,36 @@ on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
+
 permissions:
-  contents: write  
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Dark theme
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-dark.svg
           user: Florian-Sorin
           template: classic
           base: header, community, repositories, metadata
           config_timezone: Europe/Paris
           plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_details: percentage
+          config_order: base.header, isocalendar, languages, base.repositories
+          theme: radical
+
+      # Version Claire (Light)
+      - name: Light theme
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-light.svg
+          user: Florian-Sorin
+          template: classic
+          base: header, community, repositories, metadata
+          config_timezone: Europe/Paris
+          plugin_languages: yes
+          theme: classic
