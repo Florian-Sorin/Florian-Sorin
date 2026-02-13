@@ -29,6 +29,7 @@ Passionate about turning abstract concepts into concrete architectures, I see de
 ---
 
 ### 📊 My Engineering Metrics
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Florian-Sorin/Florian-Sorin/blob/master/github-metrics.svg">
 </picture>
