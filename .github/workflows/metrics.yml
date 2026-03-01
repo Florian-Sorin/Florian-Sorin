@@ -35,4 +35,5 @@ jobs:
           base: header, community, repositories, metadata
           config_timezone: Europe/Paris
           plugin_languages: yes
+          config_order: base.header, isocalendar, languages, base.repositories
           theme: classic
