@@ -12,7 +12,7 @@ Passionate about turning abstract concepts into concrete architectures, I see de
 - 🍳 **Smart Kitchen App**: Building a mobile experience to bridge the gap between code and cooking.
 
 ### 🧠 Currently learning & Exploring
-- 🤖 **Advanced LLM Orchestration**: Deep diving into **Claude** **Gemini**, looking into the **BMAD-METHOD** as well.
+- 🤖 **Advanced LLM Orchestration**: Deep diving into **Claude**, **Cursor**, looking into the **BMAD-METHOD** as well.
 - 🏗️ **Micro-SaaS Architectures**: Optimizing cold starts and cost-efficiency for small-scale apps.
 - 📱 **Cross-platform performance**: Polishing my skills in mobile UX/UI.
 
