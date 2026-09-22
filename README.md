@@ -1,44 +1,85 @@
-# Hi there! I'm Florian Sorin 👋
+# Hi, I'm Florian 👋
 
-### Solution Architect & Technical Problem Solver
+**Full-stack developer · Software architecture · DevOps · Product engineering**
 
-Passionate about turning abstract concepts into concrete architectures, I see development as a playground with no limits. My approach? Analyzing complex business needs and deconstructing them until I find the perfect technical elegance.
+I build web products from the first technical decisions to production.
 
----
+I work mainly with **Java / Spring Boot** and **TypeScript / Angular**, while my personal projects give me room to explore **Vue / Nuxt**, product design and new ways of shipping software.
 
-### 🚀 Currently working on
-- 🛠️ **SaaS Validator**: A framework to help developers test market fit before writing a single line of backend.
-- 🎨 **Dev Branding Hub**: Empowering engineers to master their image and market their side-projects.
-- 🍳 **Smart Kitchen App**: Building a mobile experience to bridge the gap between code and cooking.
-
-### 🧠 Currently learning & Exploring
-- 🤖 **Advanced LLM Orchestration**: Deep diving into **Claude**, **Cursor**, looking into the **BMAD-METHOD** as well.
-- 🏗️ **Micro-SaaS Architectures**: Optimizing cold starts and cost-efficiency for small-scale apps.
-- 📱 **Cross-platform performance**: Polishing my skills in mobile UX/UI.
-
---
-
-### 🛠️ My Tech Stack
-
-**Daily Drivers (Languages)**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Frameworks & Tools**
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+I care about maintainable architecture, useful abstractions, delivery automation, security and the less visible parts of software engineering that make a product reliable once it leaves `localhost`.
 
 ---
 
-### 📊 My Engineering Metrics
+## Selected projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Florian-Sorin/Florian-Sorin/main/github-metrics-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Florian-Sorin/Florian-Sorin/main/github-metrics-light.svg">
-  <img alt="My Engineering Metrics" src="https://raw.githubusercontent.com/Florian-Sorin/Florian-Sorin/main/github-metrics-dark.svg">
-</picture>
+### [Genesis](https://github.com/Florian-Sorin/genesis)
+**An AI-assisted product engineering workflow.**
+
+A versioned framework to move from idea to production while keeping product decisions, architecture, security, design, quality, operations and releases explicit.
+
+`Open source` · `Developer tooling` · `AI-assisted engineering`
+
+### Mijote
+**A cooking companion built around capturing, organizing and actually reusing recipes.**
+
+The product explores a smoother recipe-import and cooking workflow instead of becoming another static recipe catalogue.
+
+`Product design` · `Nuxt` · `TypeScript` · `In development`
+
+### Clairon
+**Concert discovery and trip planning for the artists you care about.**
+
+The goal is to surface shows early enough to make them realistically attendable, with travel constraints and planning built into the experience.
+
+`Discovery` · `Product engineering` · `In development`
+
+### Présage
+**An editorial approach to discovering and researching investment opportunities.**
+
+A product experiment around company discovery, structured research and clearer analysis without turning the experience into a generic trading dashboard.
+
+`Research` · `Data` · `Product design` · `In development`
+
+> Most of my current product repositories are private while they are actively being developed.
 
 ---
 
-### 🤝 Let's connect!
-- 💼 **LinkedIn**: [View my professional background](https://www.linkedin.com/in/florian-sorin-dev/)
+## Engineering stack
 
-> **"De l'exigence à l'excellence"** 🧩
+**Core**  
+Java · TypeScript · JavaScript · SQL
+
+**Frontend**  
+Angular · Vue · Nuxt · Tailwind CSS
+
+**Backend & Data**  
+Spring Boot · Node.js · Fastify · PostgreSQL · Prisma · Supabase
+
+**Platform & Delivery**  
+Docker · Git · GitHub Actions · GitLab CI/CD · Linux · CI/CD pipelines
+
+---
+
+## How I like to build
+
+**Product before implementation** — understand the problem, challenge requirements and reduce ambiguity before turning everything into code.
+
+**Architecture with intent** — define boundaries and contracts that help the product evolve instead of adding complexity for its own sake.
+
+**Quality as part of the workflow** — testing, code review, security and documentation should support development continuously, not appear at the end.
+
+**Ship and operate** — deployment, observability, backups, failure modes and rollback strategies are part of building the product.
+
+---
+
+## What I'm exploring
+
+I'm especially interested in **software architecture**, **DevOps**, **developer tooling**, **AI-assisted engineering** and the challenge of building personal products end to end.
+
+My side projects are where I experiment with product thinking, UX, architecture and delivery beyond the constraints of day-to-day work.
+
+---
+
+## Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/florian-sorin-dev/)
